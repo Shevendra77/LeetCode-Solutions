@@ -1,4 +1,4 @@
-```java
+import java.util.*;
 class Solution {
 
     public int trap(int[] height) {
@@ -30,4 +30,4 @@ class Solution {
         return water;
     }
 }
-```
+
