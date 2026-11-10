@@ -48,76 +48,102 @@ LeetCode-Solutions/
 ├── README.md
 │
 ├── Arrays/
-│   ├── 217-Contains-Duplicate.java
-│   ├── 217-Contains-Duplicate.md
-|   ├──
-|   ├──
-|   ├──
-|   ├──
-|   ├──
-|   ├──
-|   ├──
-|   ├──
-|   ├──
-|   ├──
+│   ├── Basic-Traversal/
+│   ├── Two-Pointers/
+│   ├── Sliding-Window/
+│   ├── Prefix-Sum/
+│   ├── Kadane-Algorithm/
+│   ├── Binary-Search/
+│   ├── Sorting/
+│   ├── Hashing/
 │   └── ...
 │
 ├── Strings/
+│   ├── Basic-String-Operations/
+│   ├── Two-Pointers/
+│   ├── Sliding-Window/
+│   ├── Hashing/
+│   ├── String-Matching/
 │   └── ...
 │
 ├── LinkedList/
-│   └── ...
-│
-├── Stack/
-│   └── ...
-│
-├── Queue/
-│   └── ...
-│
-├── Trees/
+│   ├── Basic-Operations/
+│   ├── Fast-and-Slow-Pointers/
+│   ├── Reversal/
+│   ├── Two-Pointers/
+│   ├── Cycle-Detection/
 │   └── ...
 │
 ├── BinarySearch/
+│   ├── Basic-Binary-Search/
+│   ├── Search-in-Rotated-Array/
+│   ├── First-and-Last-Occurrence/
+│   ├── Search-in-2D-Matrix/
+│   ├── Binary-Search-on-Answer/
 │   └── ...
 │
-├── HashMap/
+├── Matrix/
+│   ├── Basic-Traversal/
+│   ├── Diagonal-Traversal/
+│   ├── Spiral-Traversal/
+│   ├── Matrix-Transformation/
 │   └── ...
 │
-├── HashSet/
+├── Stack/
+│   ├── Basic-Stack/
+│   ├── Monotonic-Stack/
+│   ├── Next-Greater-Element/
 │   └── ...
 │
-├── TwoPointers/
+├── Queue/
+│   ├── Basic-Queue/
+│   ├── Monotonic-Queue/
+│   ├── Deque/
 │   └── ...
 │
-├── SlidingWindow/
-│   └── ...
-│
-├── Recursion/
-│   └── ...
-│
-├── Backtracking/
+├── Trees/
+│   ├── DFS/
+│   ├── BFS/
+│   ├── Tree-Traversal/
+│   ├── Height-and-Diameter/
+│   ├── Lowest-Common-Ancestor/
 │   └── ...
 │
 ├── Graph/
+│   ├── BFS/
+│   ├── DFS/
+│   ├── Cycle-Detection/
+│   ├── Topological-Sort/
+│   ├── Shortest-Path/
 │   └── ...
 │
 ├── DynamicProgramming/
+│   ├── 1D-DP/
+│   ├── 2D-DP/
+│   ├── Knapsack/
+│   ├── Subsequence-DP/
+│   ├── String-DP/
+│   └── ...
+│
+├── Backtracking/
+│   ├── Subsets/
+│   ├── Permutations/
+│   ├── Combinations/
 │   └── ...
 │
 ├── Greedy/
+│   ├── Interval-Based/
+│   ├── Activity-Selection/
 │   └── ...
 │
 ├── Heap/
+│   ├── Top-K-Elements/
+│   ├── K-Way-Merge/
 │   └── ...
 │
 ├── BitManipulation/
-│   └── ...
-│
 ├── Math/
-│   └── ...
-│
 └── SQL/
-    └── ...
 ```
 
 ---
@@ -127,12 +153,12 @@ LeetCode-Solutions/
 | Topic | Status |
 |:----------------------|:------:|
 | Arrays | ✅ |
-| Strings | ⏳ |
+| Strings| ✅|
 | Linked List | ⏳ |
 | Stack | ⏳ |
 | Queue | ⏳ |
 | Trees | ⏳ |
-| Binary Search | ⏳ |
+| Binary Search | ✅ |
 | Graph | ⏳ |
 | Dynamic Programming | ⏳ |
 | Backtracking | ⏳ |
@@ -143,13 +169,13 @@ LeetCode-Solutions/
 
 | Topic | Solved |
 |:----------------------|-------:|
-| Arrays | 1 |
-| Strings | 0 |
+| Arrays | 40 |
+| Strings | 10 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
 | Trees | 0 |
-| Binary Search | 0 |
+| Binary Search | 10 |
 | Graph | 0 |
 | Dynamic Programming | 0 |
 | Backtracking | 0 |
