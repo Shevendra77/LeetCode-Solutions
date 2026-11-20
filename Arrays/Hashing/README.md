@@ -34,7 +34,7 @@ for (int x : nums) {
 | 5 | Majority Element | [LC 169](https://leetcode.com/problems/majority-element/) | [GFG](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ |
 | 6 | Majority Element II | [LC 229](https://leetcode.com/problems/majority-element-ii/) | — | ✅ |
 | 7 | Group Anagrams | [LC 49](https://leetcode.com/problems/group-anagrams/) | [GFG](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) | ⬜ |
-| 8 | Top K Frequent Elements | [LC 347](https://leetcode.com/problems/top-k-frequent-elements/) | [GFG](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1) | ⬜ |
+| 8 | Top K Frequent Elements | [LC 347](https://leetcode.com/problems/top-k-frequent-elements/) | [GFG](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1) | ✅ |
 | 9 | Longest Consecutive Sequence | [LC 128](https://leetcode.com/problems/longest-consecutive-sequence/) | [GFG](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | ⬜ |
 | 10 | Subarray Sum Equals K | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/) | [GFG](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | ⬜ |
 | 11 | Longest Subarray With Sum K | — | [GFG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | ⬜ |
