@@ -38,7 +38,7 @@ while (left < right) {
 | 7 | 4Sum | [LC 18](https://leetcode.com/problems/4sum/) | GFG | ⬜ |
 | 8 | Trapping Rain Water | [LC 42](https://leetcode.com/problems/trapping-rain-water/) | [GFG](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | ⬜ |
 | 9 | Boats to Save People | [LC 881](https://leetcode.com/problems/boats-to-save-people/) | GFG | ⬜ |
-| 10 | Sort Colors | [LC 75](https://leetcode.com/problems/sort-colors/) | GFG | ⬜ |
+| 10 | Sort Colors | [LC 75](https://leetcode.com/problems/sort-colors/) | GFG | ✅ |
 
 ### 🔥 Recognition
 
