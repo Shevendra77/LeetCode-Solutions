@@ -34,10 +34,10 @@ while (left < right) {
 | 3 | Remove Duplicates from Sorted Array | [LC 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | GFG | ✅ |
 | 4 | Move Zeroes | [LC 283](https://leetcode.com/problems/move-zeroes/) | [GFG](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | ✅ |
 | 5 | Container With Most Water | [LC 11](https://leetcode.com/problems/container-with-most-water/) | GFG | ✅  |
-| 6 | 3Sum | [LC 15](https://leetcode.com/problems/3sum/) | GFG | ⬜ |
+| 6 | 3Sum | [LC 15](https://leetcode.com/problems/3sum/) | GFG | ✅ |
 | 7 | 4Sum | [LC 18](https://leetcode.com/problems/4sum/) | GFG | ⬜ |
 | 8 | Trapping Rain Water | [LC 42](https://leetcode.com/problems/trapping-rain-water/) | [GFG](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | ⬜ |
-| 9 | Boats to Save People | [LC 881](https://leetcode.com/problems/boats-to-save-people/) | GFG | ⬜ |
+| 9 | Boats to Save People | [LC 881](https://leetcode.com/problems/boats-to-save-people/) | GFG | ✅ |
 | 10 | Sort Colors | [LC 75](https://leetcode.com/problems/sort-colors/) | GFG | ✅ |
 
 ### 🔥 Recognition
