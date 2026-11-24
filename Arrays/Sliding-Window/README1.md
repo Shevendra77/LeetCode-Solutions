@@ -172,8 +172,12 @@ A Deque maintains candidate indices in monotonic order.
 
 | # | Problem                                 | LeetCode                                                                                          | Done |
 | - | --------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- |
-| 1 | Maximum Average Subarray I              | [LC 643](https://leetcode.com/problems/maximum-average-subarray-i/)                               | ⬜    |
-| 2 | Maximum Number of Vowels in a Substring | [LC 1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ⬜    |
+| # | Problem | LeetCode | Status |
+|---|---|---|---|
+| 1 | Maximum Average Subarray I | [LC 643](https://leetcode.com/problems/maximum-average-subarray-i/) | ⬜ |
+| 2 | Maximum Number of Vowels in a Substring | [LC 1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ⬜ |
+| 3 | Maximum Sum of Distinct Subarrays With Length K | [LC 2461](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | ⬜ |
+| 4 | Maximum Sum Subarray of Size K | [GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | ✅ |
 
 ### Frequency-Based Sliding Window
 
