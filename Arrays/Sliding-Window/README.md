@@ -51,7 +51,8 @@ for (int right = 0; right < n; right++) {
 | 9 | Fruit Into Baskets | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) | GFG | ⬜ |
 | 10 | Minimum Size Subarray Sum | [LC 209](https://leetcode.com/problems/minimum-size-subarray-sum/) | GFG | ⬜ |
 | 11 | Sliding Window Maximum | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) | [GFG](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) | ⬜ |
-| 12 | Maximum Sum Subarray of Size K | [GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | ✅ | ⬜ |
+| 12 | Maximum Sum Subarray of Size K | [GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | GFG | ✅ |
+| 13 | Subarray Product Less Than K | [LC 713](https://leetcode.com/problems/subarray-product-less-than-k/) | GFG | ✅ |
 
 ### 🔥 Master recognition
 
