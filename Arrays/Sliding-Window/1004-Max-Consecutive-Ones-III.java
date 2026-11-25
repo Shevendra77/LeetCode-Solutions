@@ -1,29 +1,30 @@
 class Solution {
-    public int longestOnes(int[] nums, int k){
+    public int longestOnes(int[] nums, int k) {
 
-        int n = nums.length;
-        int left = 0;
+       int left = 0;       // Starting index of the window
+       int maxLen = 0;     // Maximum valid window length
+       int countZero = 0;  // Number of zeros in the current window
 
-        int maxLen = 0;
-        int zeroCount = 0;
+    for (int right = 0; right < nums.length; right++) {
 
-        for(int right = 0; right < n; right++)
-        {
-            if(nums[right] == 0)
-            {
-                zeroCount++;
-            }
-             while(zeroCount > k)
-               {
-                if(nums[left] == 0)
-                {
-                    zeroCount--;
-                }
-                left++;
-               }
+    // Count zeros entering the window
+    if (nums[right] == 0) {
+        countZero++;
+    }
 
-            maxLen = Math.max(maxLen , right-left+1);
+    // Shrink the window if zeros exceed k
+    while (countZero > k) {
+
+        if (nums[left] == 0) {
+            countZero--;
         }
-       return maxLen; 
+
+        left++;
+    }
+
+    // Update maximum valid window length
+    maxLen = Math.max(maxLen, right - left + 1);
+}
+        return maxLen;
     }
 }
