@@ -31,7 +31,7 @@ int sum = pref[r + 1] - pref[l];
 | 2 | Range Sum Query | [LC 303](https://leetcode.com/problems/range-sum-query-immutable/) | GFG | ⬜ |
 | 3 | Find Pivot Index | [LC 724](https://leetcode.com/problems/find-pivot-index/) | GFG | ⬜ |
 | 4 | Left and Right Sum Differences | [LC 2574](https://leetcode.com/problems/left-and-right-sum-differences/) | GFG | ⬜ |
-| 5 | Product of Array Except Self | [LC 238](https://leetcode.com/problems/product-of-array-except-self/) | GFG | ⬜ |
+| 5 | Product of Array Except Self | [LC 238](https://leetcode.com/problems/product-of-array-except-self/) | GFG | ✅  |
 | 6 | Subarray Sum Equals K | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/) | [GFG](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | ✅ |
 | 7 | Continuous Subarray Sum | [LC 523](https://leetcode.com/problems/continuous-subarray-sum/) | GFG | ⬜ |
 | 8 | Subarray Sums Divisible by K | [LC 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | GFG | ⬜ |
